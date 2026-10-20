@@ -1,0 +1,5 @@
+{
+  "_comment": "Copy to loras.json. Keys are LoRA file stems. trigger is prepended to the prompt when 'Auto-add trigger words' is on; weight is the default slider value.",
+  "MOSS-Image-NSFW-Uncensored-LoRA-F16": { "trigger": "moss_xvstyle", "weight": 0.7 },
+  "my-style-lora": { "trigger": "mystyle", "weight": 0.8 }
+}

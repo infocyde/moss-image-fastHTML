@@ -1,0 +1,1 @@
+Extract the stable-diffusion.cpp Windows CUDA release here (sd-server.exe + DLLs, plus the cudart zip). See README.
